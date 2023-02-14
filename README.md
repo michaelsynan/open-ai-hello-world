@@ -1,21 +1,22 @@
-# OpenAI API "Hello, World!" Program
+<h1 align="center">OpenAI API "Hello, World!" Program</h1>
 
-Write a "Hello, World!" program using the OpenAI API. 
+<p align="center">Write a "Hello, World!" program using the OpenAI API, ie ask OpenAI to write code via API request.</p>
+<br />
 
 For further reading, see the OpenAI API [docs](https://platform.openai.com/docs/introduction/overview).
 
-## Register & Get API Key
+## 🔑 Register & Get API Key
 
 https://platform.openai.com/account/api-keys
 
-## Put API Key in .env file
+## 📄 Put API Key in .env file
 
 `OPENAI_API_KEY=[YOUR_KEY]`
 
-## Install OpenAI
+## 💻 Install OpenAI
 
 `npm install openai`
 
-## Make the API Request
+## ☎️ Make the API Request
 
 `node helloWorld.js`
