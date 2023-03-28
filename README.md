@@ -20,3 +20,6 @@ https://platform.openai.com/account/api-keys
 ## ☎️ Make the API Request
 
 `node helloWorld.js`
+
+## To-do
+- [ ] CLI Chat coming soon with [conversation.js](/conversation.js)
