@@ -15,7 +15,7 @@ https://platform.openai.com/account/api-keys
 
 ## 💻 Install OpenAI
 
-`npm install openai`
+`npm install`
 
 ## ☎️ Make the API Request
 
